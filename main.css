@@ -1,4 +1,6 @@
 body {
-background: #000;
-color: #fff;
+  background-color: lightblue;
+  font-family: "Arial Black", Helvetica, sans-serif;
+  font-size: 16em;
+  color: black;
 }
